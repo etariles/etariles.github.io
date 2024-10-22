@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etariles.github.io/etariles.etariles
+Sitemap: https://etariles.github.io/app/etariles.etariles
+Sitemap: https://etariles.github.io/assets/etariles.etariles
+Sitemap: https://etariles.github.io/css/etariles.etariles
+Sitemap: https://etariles.github.io/includes/etariles.etariles
+Sitemap: https://etariles.github.io/item/etariles.etariles
+Sitemap: https://etariles.github.io/src/etariles.etariles
